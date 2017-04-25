@@ -1,0 +1,5 @@
+Not a programming problem. Can be solved by finding the prime factorization of
+all of the multiples and then only including as many of those prime factors as
+necessary to create the numbers with the highest amount of those prime factors.
+
+2^4 * 3^2 * 5 * 7 * 11 * 13 * 17 * 19
